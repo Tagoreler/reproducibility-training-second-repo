@@ -1,0 +1,38 @@
+---
+title: 1,500 scientists lift the lid on reproducibility
+output: html_document
+author: Monya Baker
+date: 25 May 2016
+---
+# Survey sheds light on the ‘crisis’ rocking research. 
+
+**More than 70% of researchers have tried and failed to reproduce another scientist's experiments,** and more than half have failed to reproduce their own experiments. Those are some of the telling figures that emerged from Nature's survey of 1,576 researchers who took a brief online questionnaire on reproducibility in research.
+
+The data reveal sometimes-contradictory attitudes towards reproducibility. Although 52% of those surveyed agree that there is a significant 'crisis' of reproducibility, less than 31% think that failure to reproduce published results means that the result is probably wrong, and most say that they still trust the published literature.
+
+![](img/reproducibility-graphic-online1.jpeg)
+
+Or you can be a lazy shit  and
+
+![](https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F533452a/MediaObjects/41586_2016_BF533452a_Figd_HTML.jpg?as=webp)
+
+# The Survey
+In the survey[^1] respondents were asked to rate 11 different approaches to improving reproducibilty in science. Below is the list order by the most highly rated:
+
+- Better understanding of statistics  
+- Better mentoring/supervision  
+- More robust design  
+- Better teaching  
+- More within-lab validation  
+- Incentives for better practice  
+- Incentives for formal reproduction  
+- More external-lab validation  
+- More time for mentoring  
+- Journals enforcing standards  
+- More time checking notebooks
+
+
+
+[^1]: The survey can be downloaded [here](data/111.doc) or [here if you don't live on this computer](http://www.nature.com/polopoly_fs/7.36741!/file/Reproduciblility%20Questionnaire.doc)
+
+

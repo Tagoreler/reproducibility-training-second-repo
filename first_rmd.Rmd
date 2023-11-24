@@ -1,0 +1,38 @@
+---
+title: "first_rmd"
+output: html_document
+date: "2023-11-24"
+---
+
+# OIIIIIIIIIIIIIIIII!!!
+
+## OIIIIIIIIIIIIIIIIIIIIIII!!! but smaller
+
+### OIIIIIIIIIIIIIIIIIIIII!!! but even smaller
+
+#### OIIIIIIIIIIIIIIIIIIIII!!! but even smaller than that
+
+##### OIIIIIIIIIIIIIIIIIIIII!!! but tiny!
+You son of a bitch, I'm in!
+
+
+This is bold text : **bold1**, or __bold__.
+
+This is italic text: *italic1*, or _italic_.
+
+This is superscripted text: test^1^
+
+This is subscripted text: test~2~
+
+This is inline code `code3`
+
+This is hashing out: ~~wrong~~ 
+
+
+Line breaks 1 - two spaces at the end of a sentence  
+Line breaks 2 - `\` and space \
+line breaks 3 - empty line in between before (before te next line)
+
+ooh testing time no double spaces
+in between lines
+

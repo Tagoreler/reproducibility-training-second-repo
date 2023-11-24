@@ -1,0 +1,124 @@
+---
+title: "tester"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+date: "2023-11-24"
+---
+# Header I want to link to {#linky2}
+
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+FILLER
+
+link back to the header [text](#linky2)
+
+to link to a webpage [webpage](https://training.cam.ac.uk/bioinformatics/event-timetable)
+
+To do footnotes`[^1]`[^1]
+
+How to make a list
+
+This is my input list:  
+Leave the line above the list empty you doofus numpt
+
+1. Drug Name:  
+    a. Generic Name  
+    b. Trade Name  
+    c. Description  
+    d. ATC Code
+        i. Double check  
+2. Frequency  
+3. Form  
+    a. (Including Weird Swedish Variants)  
+
+1. Dose
+2. It'll continue numbering despite this for some reason
+
+1. Veggies:  
+    a. tomato
+    b. cucumber
+
+
+you can also use an unordered bulleted list with a *, + or -   
+
+- Department of clincial Neurosciences  
+    - Brain Repair Centre  
+        - Roger's Group
+        - Caroline's Group
+    - CCMR
+- Stem Cell institute
+
+
+A Task list
+
+- [ ] not done yet
+- [x] done
+
+
+Oooh pictures are pretty.  I like pictures
+
+![This is a caption](img/testpic.png)
+## Tables and Blocks
+
+| Column 1    | Column 2    |
+| ----------- | ----------- |
+| Item 1,1    | Item 1,2    |
+| Item 2,1    | Item 2,2    |
+
+You can define by headers also 
+
+| Left align  | Center align | Right align  |
+| :---        |    :----:    |         ---: |
+| Item 1,1    | Item 1,2     | Item 1,3     | 
+| Item 2,1    | Item 2,2     | Item 2,3     |
+
+> Blocks can be created 
+
+Or you can use a code block
+
+```
+print ("you stink")
+f = 1+5
+print(f)
+```
+
+# Table s
+
+[^1]:This is das footnote
+
+
